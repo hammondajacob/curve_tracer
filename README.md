@@ -1,2 +1,4 @@
 # curve_tracer
-Code for PV cell power curve tracer circuit.
+Arduino code for PV cell power curve tracer.
+Process and code explanations in pdf.  
+PLEASE READ PDF FILE.
